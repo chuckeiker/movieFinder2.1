@@ -1,7 +1,6 @@
 {
   "name": "moviefinder2.1",
   "version": "0.1.0",
-  "homepage": "https://chuckeiker.github.io/moviefinder2.1/",
   "private": true,
   "engines": {
     "npm": "8.15.0",
